@@ -1,0 +1,41 @@
+{
+  "name": "sam-init",
+  "version": "1.0.0",
+  "description": "\"simple authetication system\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"cloudesign\"",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "*",
+    "bcryptjs": "*",
+    "body-parser": "^1.18.2",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "multer": "*",
+    "mysql": "*",
+    "node-rest-client": "*",
+    "nodemailer": "*",
+    "passport": "*",
+    "passport-facebook": "*",
+    "passport-google-oauth": "*",
+    "passport-local": "*",
+    "passport-twitter": "*",
+    "pug": "*",
+    "serve-favicon": "*",
+    "validator": "*"
+  },
+  "devDependencies": {}
+}
